@@ -1,7 +1,5 @@
 # About Me
 
-[**Axmc5069/Axmc5069**](https://www.github.com/Axmc5069/Axmc5069) is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
-
 ---
 
 ## Here are some things about me:
